@@ -1,4 +1,4 @@
-# Casa App Prototype
+# Casa App
 An simple, stylish app to streamline meal planning, grocery shopping, and recipe storage.
 
 [Interactive prototype](https://www.figma.com/proto/Pb72pZfmFQiXqZ3IOYvUi6/Meal-Planner?node-id=56%3A132&starting-point-node-id=56%3A132)
